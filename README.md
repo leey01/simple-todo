@@ -1,4 +1,5 @@
 # simple-todo
+https://leey01.github.io/simple-todo/
 
 project todo list yg sangat sangat simple,
 cara menggunakan :
