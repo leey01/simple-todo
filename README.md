@@ -1,6 +1,6 @@
 # simple-todo
 
-project todo list yg sangat sangat simple
+project todo list yg sangat sangat simple,
 cara menggunakan :
 1. tulis kegiatan yg ingin dilakukan, lalu tekan tanda plus(+)
 2. klik sekali jika ingin mencoret
